@@ -1,4 +1,4 @@
-pkm.site
-========
+share.site
+==========
 
-A weblog for the topic of Personal Knowledge Management
+A weblog for sharing good articles.
