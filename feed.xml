@@ -4,7 +4,7 @@
     <title>文章分享</title>
     <atom:link href="http://share.yuz.me/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://share.yuz.me</link>
-    <description>分享值得一读的文章，并附读后感</description>
+    <description>分享值得一读的好文，并附读后感</description>
     <pubDate>Mon, 07 Apr 2014 02:00:00 +0200</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
@@ -14,11 +14,12 @@
       <pubDate>Mon, 07 Apr 2014 02:00:00 +0200</pubDate>
       <guid isPermaLink="true">http://share.yuz.me/articles/2014-04-07/</guid>
       <author></author>
-      <description>&lt;ol&gt;
+      <description>&lt;p&gt;以下是我收集的一些学外语的建议：&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;如果有条件，多看电视，多听广播。&lt;/li&gt;
 &lt;li&gt;尽量多一个人出门办事，尽可能选择没有国人伴随的情况以强迫自己必须练习听说。&lt;/li&gt;
 &lt;li&gt;只要你愿意和有胆去跟别人交朋友，一年半载下来你的意大利语一定会比现在有很大的进步。&lt;/li&gt;
-&lt;li&gt;一个有效的学习循环是：讲不出-听别人讲-自己重复类似语句-完成话题的掌握-尝试新的话题。&lt;/li&gt;
+&lt;li&gt;一个有效的学习循环是：讲不出 -&amp;gt; 听别人讲 -&amp;gt; 自己重复类似语句 -&amp;gt; 完成话题的掌握 -&amp;gt; 尝试新的话题。&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
