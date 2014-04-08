@@ -5,22 +5,243 @@
     <atom:link href="http://share.yuz.me/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://share.yuz.me</link>
     <description>分享值得一读的好文，并附读后感</description>
-    <pubDate>Mon, 07 Apr 2014 02:00:00 +0200</pubDate>
+    <pubDate>Tue, 08 Apr 2014 02:00:00 +0200</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>高效工作的信息搜集及管理术</title>
+      <link>http://share.yuz.me/articles/2014-04-08/</link>
+      <pubDate>Tue, 08 Apr 2014 02:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://share.yuz.me/articles/2014-04-08/</guid>
+      <author></author>
+      <description>&lt;p&gt;文章选自 &lt;a href=&quot;http://heidixie.blog.sohu.com/247551250.html&quot;&gt;Heidi格物志&lt;/a&gt;，有兴趣的朋友可以关注她的&lt;a href=&quot;http://heidixie.me/&quot;&gt;个人网站&lt;/a&gt;和&lt;a href=&quot;http://weibo.com/heidixie&quot;&gt;微博&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&quot;-&quot;&gt;写在前面&lt;/h3&gt;
+&lt;p&gt;几个月前，团队邀我做次内部的分享，主题是如何有效搜索信息。这是因为平时工作中，我经常会分享一些专业学习文档，而这些文档的出现往往很及时，回应一些我们自己项目的困惑，所以大家会好奇我如何及时找得到那么专业且对口的参考资料。&lt;/p&gt;
+&lt;p&gt;这些资料有些来自网络搜索，有些却是来自我的“个人资料库”，它分门别类，容易检索，所以很轻易就能够翻出来示人。所以后来，这次分享便从“搜索术”，扩大为如何获取、整理各种信息的技能。&lt;/p&gt;
+&lt;p&gt;这原来我认为是常识的东西，却在简单分享后得到好评。受到鼓励之余，我也明白了并不是所有人都明白有效的信息搜集及整理有多么重要，也并不是所有人，都掌握了行之有效的方法和技巧。故整理成文，做抛砖引玉之用。&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-&quot;&gt;一.信息搜集及整理循环图&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/01.jpg&quot; alt=&quot;图1：信息搜集及整理术循环图&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图1：信息搜集及整理术循环图&lt;/p&gt;
+
+&lt;p&gt;如上图1所示，我认为“信息搜集及整理术”会包含三个关键阶段：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;搜索：“找信息”——用各种搜索渠道快速找到所需的精准信息。&lt;/li&gt;
+&lt;li&gt;集成：“存信息”——简单来说，就是把你找到的信息，定制成为个人资料库，按照自定义的主题，分类存储在自己很方便访问的地方。&lt;/li&gt;
+&lt;li&gt;整理：“理信息”——信息单纯集成而不加整理，时间长了就会杂乱不堪，所以才会出现很多人自己的硬盘资料库已经塞满了，每当需要什么资料的时候，还是需要去搜索。定期对所集成的信息进行整理（归类，去重，留精，加可供搜索的标签等等），能够显著提升信息搜索效率。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;最初你需要一定的动力去尝试开始做这件事情，而一旦兴趣产生，再加以坚持， 这就已经成为习惯，和你密不可分了。&lt;/p&gt;
+&lt;h3 id=&quot;-&quot;&gt;二.高效搜索术&lt;/h3&gt;
+&lt;h4 id=&quot;2-1-&quot;&gt;2.1 建立你的主题关键词&lt;/h4&gt;
+&lt;p&gt;建立自己关注的核心关键词是重要的一步。&lt;/p&gt;
+&lt;p&gt;如今我们遇到的信息量已经高速爆发，信息的种类和来源多种多样，信息的更新速度日渐加快。喜欢刷微博的同学都清楚，一旦进了微博，你就进入了无数信息和主题词的世界，通过一个消息到另一个消息，看来看去时间就消耗进去了。&lt;/p&gt;
+&lt;p&gt;如果我们不设立一些主题，很容易陷入信息的汪洋中，而另一个极端则是两耳不闻窗外事，担心信息负载太大而刻意回避信息，导致自己和时代脱节。如果作为一个交互设计师，能够不关注最新的交互界的最新态势吗？&lt;/p&gt;
+&lt;p&gt;主题关键词有几个好处：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;建立方向提醒&lt;/strong&gt;：时刻明白对自己真正有价值的是什么，主动保持该类信息的更新；而那些无关紧要的，则可以少看或者不看。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主动获取信息&lt;/strong&gt;：使用各种订阅、集成工具更有目标，用这些词订阅，让信息主动找你。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;减少无聊时间&lt;/strong&gt;：无所事事比忙碌更让人疲惫，若找不到想干的事，最起码可以搜索下你的主题词，找点好玩的文章或动态。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;虽然靠大脑就可以形成自己的关键词，但工具可以帮助你加深记忆，比如用 mindmanager 等脑图工具做图，贴于自己的书桌或办公桌前： &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/02.jpg&quot; alt=&quot;图2：Heidi的主题关键词&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图2：Heidi的主题关键词&lt;/p&gt;
+
+&lt;p&gt;主题词建好之后，并不是一成不变，需要定期结合自己的工作评估及更新。比如我近一年对商务智能（Business intelligence）很感兴趣，也会定期查阅相关的资讯，但是去年此刻，我对此几乎不了解。&lt;/p&gt;
+&lt;h4 id=&quot;2-2-&quot;&gt;2.2 用好你的搜索引擎！&lt;/h4&gt;
+&lt;p&gt;主题关键词让我们知道自己时刻应该关注什么，而接下来我们就要更高效去找这些信息！&lt;/p&gt;
+&lt;p&gt;搜索引擎是非常重要的信息获取入口，至于我用的技巧真算不上高级，欢迎搜索达人们和我交流下省力更有效的搜索手段。&lt;/p&gt;
+&lt;h4 id=&quot;2-2-1-&quot;&gt;2.2.1 找准关键词，事半功倍！&lt;/h4&gt;
+&lt;p&gt;很早之前，我偶然看到两张图片。我很喜欢这两个图片，所以我希望看到更多类似的图片。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/03.jpg&quot; alt=&quot;图3：用何种关键图去检索这两类图片呢？&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图3：用何种关键图去检索这两类图片呢？&lt;/p&gt;
+
+&lt;p&gt;可是，首先这种图叫什么图呢？&lt;/p&gt;
+&lt;p&gt;先在脑子里头脑风暴下应该用的关键词，叫什么呢？插图？图表？手绘图？插画？这些关键词搜索出来的结果真让人沮丧。但是，根据搜索结果的提示，一步步更换关键词直至找到靠谱的结果。而最终，当我找到这个词后，就找到宝藏了——&lt;/p&gt;
+&lt;p&gt;要找图3中左侧类型的图，请尝试用“可视化思考”，或用 google 搜索 “visual thinking”，要找更多图3中右侧类型的图，请尝试用“信息图”，或 “infographic”。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/04.jpg&quot; alt=&quot;图4：可视化思考的检索结果&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图4：可视化思考的检索结果&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/05.jpg&quot; alt=&quot;图5：信息图的检索结果&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图5：信息图的检索结果&lt;/p&gt;
+
+&lt;p&gt;所以，在搜索中，要不断地更换更贴切的关键词，而不是一直打擦边球。如何找到贴切的关键词呢？从你觉得可行的第一个关键词开始，不要轻言放弃，根据每次搜索结果出来的线索跟踪，不断更换关键词，直至拿到结果。&lt;/p&gt;
+&lt;h4 id=&quot;2-2-2-&quot;&gt;2.2.2 更换语言，别有洞天&lt;/h4&gt;
+&lt;p&gt;有时更换为英语能够让你获取更精准的结果。所以这也是为什么，我的主题词要中英双语版。既然很多中文的结果是从英文翻译过来的，直接查看源文章显而易见信息遗漏较少。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/06.jpg&quot; alt=&quot;图6：用英文搜索“可视化思考”得到的结果&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图6：用英文搜索“可视化思考”得到的结果&lt;/p&gt;
+
+&lt;p&gt;以此类推，每多一种语言就打开一扇新的了解世界的窗口。就拿家庭收纳来讲，用中文“收纳”去搜索文章，几乎只是一些零碎的图片和社区网站为了招徕用户拼凑而成的收纳技巧。而用日语“収納”去搜索，看日本的某些网站，我们能够看到很多关于收纳术的经验、文档和教程。有些教程的丰富性不亚于出版的书籍，更好过于我们国内那些拼凑出来的家居整理学了。如：&lt;a href=&quot;http://www.iris-interior.com/mainichi/&quot;&gt;http://www.iris-interior.com/mainichi/&lt;/a&gt; 网站提供的本多先生每日收纳教程：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/07.jpg&quot; alt=&quot;图7：用日语収納检索到的专业网站&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图7：用日语収納检索到的专业网站&lt;/p&gt;
+
+&lt;p&gt;关于收纳学的网站，大家有兴趣可以用日语“収納”搜搜试试，不可以找我要。&lt;/p&gt;
+&lt;h3 id=&quot;2-2-3-&quot;&gt;2.2.3 更换搜索方式，殊途同归&lt;/h3&gt;
+&lt;p&gt;若网页搜索不能获得所要结果，可以变换搜索类型，比如搜索图片，再通过图片链接到有价值的网站。&lt;/p&gt;
+&lt;p&gt;我常用的则是文件搜索，与普通网页相比，这些文档通常意味着更好的更系统化的组织，从而让你的信息获取更加有效。&lt;/p&gt;
+&lt;p&gt;如何利用搜索引擎搜索文档呢？&lt;/p&gt;
+&lt;p&gt;只要在搜索词前加入 &lt;code&gt;filetype:pdf&lt;/code&gt; 就可以搜索 pdf 格式的文档。（Google 和百度均适用。）&lt;sup&gt;[&lt;a name=&quot;origin_1&quot; href=&quot;#1&quot;&gt;1&lt;/a&gt;]&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;如用百度搜商务智能的相关文档：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/08.jpg&quot; alt=&quot;图8：用百度搜索文档&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图8：用百度搜索文档&lt;/p&gt;
+
+&lt;h4 id=&quot;2-2-4-&quot;&gt;2.2.4 别忘记了专业网站&lt;/h4&gt;
+&lt;p&gt;专业网站让你免除在大量的垃圾信息里找所需资料的苦恼，他们的信息往往更加聚焦。我经常用到的专业性搜索网站有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/&quot;&gt;Slideshare&lt;/a&gt; —— PPT 分享网站，很多国外制作优良，内容丰富专业的 PPT。我经常在这里搜索关于可视化思考的文档资料。但是很遗憾的是，目前你就需要翻墙才能够看到这个网站了。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.mbalib.com/‎&quot;&gt;MBA 智库&lt;/a&gt; —— 专注于经管领域的资料库。你可以在这里搜到很多经管领域的各种术语解释，文档等。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.wikipedia.org/&quot;&gt;维基百科&lt;/a&gt; —— 如果在墙外或者会翻墙的话。很多被国内是敏感词的，在这里能够看到非常翔实的前因后果各种脉络。当然，若非敏感词的话，百度百科也是不错的资源。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/a8.jpg&quot; alt=&quot;图片&quot;&gt;&lt;/p&gt;
+&lt;h4 id=&quot;2-2-5-&quot;&gt;2.2.5 向书籍里找搜索提示！&lt;/h4&gt;
+&lt;p&gt;一个小提示，没有关键词灵感的时候，还可以从书的目录去获取关键词提示。 除了目录，专业书籍里面隐含很宝贵的可供挖掘的信息。&lt;/p&gt;
+&lt;p&gt;下面就是一个利用书籍提供的信息不断发掘，进而找到真正所需的信息的案例：&lt;/p&gt;
+&lt;p&gt;最近我读《Excel图表之道》这本书，在 P152 页提到的图表类型选择指南的原作者是 Andrew Abela。这个人名就是一个很宝贵的关键词！这个关键词可能代表着：数据，数据分析，商务智能，沟通演示等等主题。&lt;/p&gt;
+&lt;p&gt;所以搜索此人，看到此人的博客是：&lt;a href=&quot;http://extremepresentation.typepad.com/&quot;&gt;http://extremepresentation.typepad.com/&lt;/a&gt;。这个博客是专业博客，主题是复杂信息的沟通及演示。&lt;/p&gt;
+&lt;p&gt;而这个博客在为一本书做广告，这本书正是出于 Andrew Abela, 《Advanced Presentations by Design: Creating Communications that Dirves Action》，此书的中文版在大陆有售，中文翻译为《说服力演说是怎样炼成的—如何设计当场成交的 PPT》。&lt;/p&gt;
+&lt;p&gt;进而又通过博客这本书的网站：&lt;a href=&quot;http://www.extremepresentation.com/&quot;&gt;http://www.extremepresentation.com/&lt;/a&gt;。这个网站有一些相当不错的信息，推荐对于演示有兴趣的同学们看看。比如以下两个图表也来自该网站：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/09.jpg&quot; alt=&quot;图9：extremepresentation.com 的配图&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图9：extremepresentation.com 的配图&lt;/p&gt;
+
+&lt;p&gt;当然，被《Excel 图表之道》作者刘万祥老师引用的图表类型选择指南的图英文原版也在这个网站中有大图可以下载。另外，我们的信息挖掘还没有结束哦！注意，他还提供了另外一个在线的工具：&lt;a href=&quot;http://www.chartchooser.com/&quot;&gt;www.chartchooser.com&lt;/a&gt;，此网站可供数据分析师们根据自己的需求选择不同的图表展现，该网站出自 &lt;a href=&quot;http://www.juiceanalytics.com/&quot;&gt;Juiceanalytics&lt;/a&gt;。而进入 &lt;a href=&quot;http://www.juiceanalytics.com/&quot;&gt;Juiceanalytics&lt;/a&gt; 网站的白皮书栏目，我找到了《设计人人都爱的信息仪表盘指南》（A Guide to Creating Dashboards People Love to Use） ，这本白皮书恰好能够解答我对于近期工作的一些迷惑。&lt;/p&gt;
+&lt;p&gt;如果特意去找，反而不容易有所收获，而如果知道自己的主题关键词，你的信息嗅觉就会非常灵敏，在某个契机下，抓住线索不放，往往不经意中探得捷径。&lt;/p&gt;
+&lt;h3 id=&quot;-&quot;&gt;三.便捷的集成&lt;/h3&gt;
+&lt;p&gt;集成是信息的集中归档。搜索引擎固然方便，可是若一些常用的东西，未必每次都需要搜索。而是可以在自己的电脑上建立个人资料库。不管是否有网络，都能够随时查阅。&lt;/p&gt;
+&lt;p&gt;我会习惯将搜索到有价值的文档、网页、图片存储在自己的电脑里，可是，我们也会发现，这些资料一旦存到硬盘里，却石沉大海。下次若需要，却还是求助于搜索引擎。而另一方面，电脑文件夹却又日渐庞大，要经常删除文档以腾挪出空间。这种方法还有一个弊端，那就是多台电脑使用时，就要借助移动硬盘或U盘，从而一份东西，居然要三处备份。&lt;/p&gt;
+&lt;p&gt;后来有了 &lt;a href=&quot;https://www.dropbox.com/&quot;&gt;Dropbox&lt;/a&gt; 等应用，能够比较方便多机共享文件，但是容量毕竟有限，却时而遭受屏蔽。后来自然也有国内的一个好的服务，比如 &lt;a href=&quot;http://yunpan.360.cn/&quot;&gt;360 云盘&lt;/a&gt;，可以有多达 5G 的空间，实现云端、多电脑客户端共享文件。大家若有需求，也不妨一试。&lt;/p&gt;
+&lt;p&gt;这些网盘、云盘之类的服务，解决了多个客户端同步存储的需求。但是我日常工作中，还时少不了以下几个小应用，来作为集成手段的有效补充。他们的特点是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;调用方便&lt;/strong&gt; —— 不用像使用网盘那样需要先存储下来再上传，随时能够调取使用，不用中断当前工作。比如在一件任务进程中，遇到一篇不错的文档，想归档以后阅读。只需要点击一下就可以集成到自己的主题分类里，比如预设好的“待读”文件夹，而继续执行当前任务。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;高效检索&lt;/strong&gt; —— 能够对所集成的文档加标签，关键词，甚至能够全文检索。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;云端、客户端同步。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;3-1-evernote-&quot;&gt;3.1 Evernote 便捷集成&lt;/h4&gt;
+&lt;p&gt;作为使用了 Evernote 多年的用户，我对它抱有感恩之情。它已经与我的生活、工作密不可分。如同它的广告所言，它成为我的一部分大脑。不但能够帮助记住很多东西，也能够帮我随时记录很多东西。&lt;/p&gt;
+&lt;p&gt;Evernote 提供剪辑工具可以添加到 Chrome 浏览器的应用，从而阅读网页时可以随时调用归档待读资料。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/10.jpg&quot; alt=&quot;图10：Evernote 的便捷集成工具&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图10：Evernote 的便捷集成工具&lt;/p&gt;
+
+&lt;p&gt;Evernote 有个 Outlook 插件，帮你在阅读邮件时收藏重要邮件：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/a11.jpg&quot; alt=&quot;Evernote 的 Outlook 插件&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;Evernote 的 Outlook 插件&lt;/p&gt;
+
+&lt;p&gt;那有人会问了，这只是集成一些文档而已，如果是 PPT 或 PDF 电子书籍怎么办呢？其实 Evernote 完全可以帮你归档重要的文档呢。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/11.jpg&quot; alt=&quot;图11：evernote集成文档&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图11：evernote集成文档&lt;/p&gt;
+
+&lt;p&gt;因为文档体积往往会比较大，作为 Evernote 的免费用户也许会吃不消。若无意升级，你也可以建立一个“待读”文件夹，将需要后续阅读的文档归类到此文件夹下，也就形成了一项待办任务了，同时你在本地的电脑文件夹里也存储一份。Evernote 里的文档则可以阅读一份删除一份，只将有用的信息摘录出来。&lt;/p&gt;
+&lt;p&gt;Evernote 的搜索功能也比较强大，能够进行 PDF 的全文检索。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/12.jpg&quot; alt=&quot;图12：Evernote 的全文检索&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图12：Evernote 的全文检索&lt;/p&gt;
+
+&lt;p&gt;Evernote 的云端同步功能就更方便了。电脑上剪辑的文档，同步后，手机客户端、iPad 客户端都可以即刻
+访问到，连 U 盘的功能也取代掉了。所以要强烈推荐未用的人尝试一下的。&lt;/p&gt;
+&lt;h4 id=&quot;3-2-&quot;&gt;3.2 用花瓣网集成图片&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/13.jpg&quot; alt=&quot;图13：用花瓣网集成图片&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图13：用花瓣网集成图片&lt;/p&gt;
+
+&lt;p&gt;用&lt;a href=&quot;http://huaban.com/&quot;&gt;花瓣网&lt;/a&gt;做图片集成，是个人无意发现的技巧，也在此提及一下。&lt;/p&gt;
+&lt;p&gt;原来我的电脑里必有一个文件夹，叫做图片集，专门放置来自于网络的各种图片，分门别类，有摄影欣
+赏，服饰搭配，设计素材，宠物，可视化思考，简笔画，LOGO 设计……存在电脑上，也自然会遇到同样
+的问题，检索困难，体积庞大，同步不易……&lt;/p&gt;
+&lt;p&gt;有了花瓣网后，也将花瓣网的采集工具加到 Chrome 浏览器应用里，可以随时采集网页上的各种图片。这
+些采集工作和 Evernote 剪辑工具一样，随时调用，不会中断你当前的工作流。&lt;/p&gt;
+&lt;p&gt;而在花瓣网里，创建自己的画板，以主题命名。就图片而言，个人比较关心的也就是那么几类：
+摄影、宠物、室内装修、简笔画、设计、用户体验、商务智能……这有些是关乎工作，有些则是个人生活。&lt;/p&gt;
+&lt;p&gt;如此，每次采集都可以将图片放到自己的分类里。你可以不常去花瓣网，但是自己的资料库却一天天丰满
+了。当你哪天想到要找这些主题的参考，打开自己的花瓣网，里面已经采集了那么多素材可供使用，因为
+平时也不过是点下鼠标，所以真有点坐享其成的感觉。&lt;/p&gt;
+&lt;h3 id=&quot;-&quot;&gt;四.养成定期整理的好习惯！&lt;/h3&gt;
+&lt;p&gt;能够高效获取信息，又能够将信息方便集成，但是若没有定期的整理，难免这些信息时间长了又会趋于杂
+乱。所以，就如我们要定期打扫收拾家务一样，这是必不可少的重要一步。“整理”一词包含了“检查并调整
+归类”，“删除不需要的文档”，“添加可便搜索的标签或关键词”等。&lt;/p&gt;
+&lt;p&gt;平时，电脑文件夹或者 Evernote 笔记本里，我都会设置一个“临时文件夹”，以便存放一些暂时无法归类的
+文档或资料，而定期就要着重看一下这些临时文件夹，将里面的文档妥善安置到对应的分类里，以免临时
+文件夹名不副实，成了一个大杂烩。&lt;/p&gt;
+&lt;h4 id=&quot;4-1-evernote-&quot;&gt;4.1 不要让你的 Evernote 爆炸掉&lt;/h4&gt;
+&lt;p&gt;既然 Evernote 相当于你的另一个大脑，不经整理的 Evernote 就是混沌的大脑。&lt;/p&gt;
+&lt;p&gt;建立了你的主题关键词后，Evernote 的笔记本也可以建立相应的名称，以便于你归类不同的资料、文档、
+图片等。Evernote 会自动按照笔记本的数字及字母顺序排序，所以在数字前加字母 ABC 就帮助我形成了两
+级的排序。同时，字母 ABC 又可区分3个大的种类。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/14.jpg&quot; alt=&quot;图14：我的evernote笔记本分类方法&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图14：我的evernote笔记本分类方法&lt;/p&gt;
+
+&lt;p&gt;这个文件夹体系，可以让我任意拓展其中一个分类，而不会影响其他。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/a14.jpg&quot; alt=&quot;我的笔记本分类&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;我的笔记本分类&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;再重申一点：TEM笔记本很重要！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;正如本章开篇所言，不管分类再如何完善，都不可避免有时匆忙之中，找不到一个合适的分类而乱存放信
+息。所以，满足足够的拓展性，建议你设置一个叫 TEM（Temporary 的简写）的笔记本。这个 TEM 笔记本
+一可以让你迅速存储，二可以形成待办事项 —— 没事可做的时候，最起码你能整理这个文件夹，让里面的
+文档该读的读该删的删，该归类的就放到对应的笔记本中。&lt;/p&gt;
+&lt;h4 id=&quot;4-2-&quot;&gt;4.2 勤检查你的电脑文件夹&lt;/h4&gt;
+&lt;p&gt;即使有那么多集成整理工具，我们的工作大部分都要依赖自己的电脑笔记本了。所以若电脑文件夹缺乏条
+理，也会很影响我们的工作效率。&lt;/p&gt;
+&lt;p&gt;不太善于整理家务的我，却喜欢定期整理自己的电脑。这个习惯大概是从5年前开始吧，当时带领一个小
+团队，要协调多方的工作，我们很多人的工作都需要放到共享盘里的文件夹里交换维护。所以要建立一套
+标准化的文件夹体系很重要。当时花了一番精力去做文件夹的规范并监督执行，取得了不错的结果。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/15.jpg&quot; alt=&quot;图15：复杂的内容协作文件夹体系&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图15：复杂的内容协作文件夹体系&lt;/p&gt;
+
+&lt;p&gt;当然，这是一个内容管理类的协作很复杂的文件夹了。我们日常的文件夹远比这个简单。&lt;/p&gt;
+&lt;p&gt;我的电脑的文件夹体系：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/16.jpg&quot; alt=&quot;图16：Heidi的文件夹体系&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图16：Heidi的文件夹体系&lt;/p&gt;
+
+&lt;p&gt;文件夹的设立原则：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;每级目录尽量控制在7个文件夹左右&lt;/strong&gt;，尤其是根目录不宜太多。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;假想中的任何文件都能够找到归属&lt;/strong&gt;。比如家庭成员突然发过来一些合影照，你应该放到那里。TEM 文件夹的作用在于临时，你自然可以将这些文档堆到 TEM 文件夹里，但是 TEM 其实相当于临时收容所，不等于固定的住所。我习惯是在 E 盘增加 Personal 的文件夹，将私人的文档，文章，图片在这个文件夹里建立相应的分类。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;每个文件夹下都预留一个临时文件夹&lt;/strong&gt;，以防当新接收到的文件因为不知道如何归类而导致根目录无限扩张。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;序号能够让排序查找更为轻松&lt;/strong&gt;。为何要在文件夹前加上序号呢？其实就是在浏览文件夹的时候，能够出现优先级的顺序。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;拿 Study 文件夹为例：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/17.jpg&quot; alt=&quot;图17：文件夹序号命名法&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;图17：文件夹序号命名法&lt;/p&gt;
+
+&lt;h4 id=&quot;4-4-&quot;&gt;4.4 我所理解的桌面&lt;/h4&gt;
+&lt;p&gt;再简单谈一下我所理解的电脑里的“桌面”。我认为“桌面”是一种快捷方式。他的作用在于：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;快捷方式&lt;/strong&gt;：放我们常用的文档和软件快捷方式，便于你直接找到它们。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;一级的临时文件夹&lt;/strong&gt;。桌面也是临时文档的收容所。比如别人发过来的文档，你暂时没时间读，也不知道如何归类。如果你接收了放到 D 盘或者 E 盘任何一个文件夹里的 TEM，都有可能导致你开完会后就忘记了 —— 直到别人提起。所以这种情况下，往往很多人会存放到桌面。我认为这也是很正确的决定。最起码你开机的时候可能会看到它。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;但是我们的“桌面”却被滥用了。它被放满了根本不需要的各类快捷方式，被堆满了。就像你家里的茶几，
+你放了红酒开瓶器 —— 虽然你一个月也不用一次，但是它天天在桌面上。你老婆放了一本同学录，虽然她
+只是2个月前用过。某日亲戚给你送了一双小孩子的鞋，你临时放到茶几上，后来一直没有整理。时间长
+了，你真正所需的快捷方式和有价值的临时存放就没有任何意义。&lt;/p&gt;
+&lt;p&gt;我建议的桌面应该是这样的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;背景设置为让你身心愉悦的照片，比如你和家人的合影。&lt;/li&gt;
+&lt;li&gt;存放不超过10个常用工具的快捷方式。&lt;/li&gt;
+&lt;li&gt;建立 TEM 文件夹 —— 不然你的桌面可能也会不出一个月就膨胀了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其实，电脑的任务栏也是非常重要的快捷方式领地，而且不需要回到桌面随调随用 —— 我最常用的软件一
+般会放到这里，比如截图、取色、mindmanager 等等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://share.yuz.me/articles/2014-04-08/a17.jpg&quot; alt=&quot;电脑任务栏&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;电脑任务栏&lt;/p&gt;
+
+&lt;h3 id=&quot;-&quot;&gt;结语&lt;/h3&gt;
+&lt;p&gt;信息的搜集再多，信息的整理再有条理，若不学以致用，也顶多是建立了一个丰富的个人知识库罢了。&lt;/p&gt;
+&lt;p&gt;所以最重要的是真正用好这些信息，结合自己的工作、生活，勤思考，多实践，消化这些信息为自己所用，然后沉淀出自己的知识来。&lt;/p&gt;
+&lt;p&gt;除了在工作中学以致用外，写专业博客也是很好的转化信息的手段，“教胜于学”，写博客为示人，求指点，求交流，必然会照顾行文章法逻辑，用体系串联起所读，所做，所感，所思，所得。为照顾逻辑严密，也少不得多加思考，多加质疑，所以每次完成一篇专业博客，也如同自己好好上了一课，也消化了多种信息到自己的知识体系内，这种转化，比单纯集成起来定期阅读有效多了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;仅个人有限经验，愿大家都有所得。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;[&lt;a name=&quot;1&quot; href=&quot;#origin_1&quot;&gt;1&lt;/a&gt;]&lt;/sup&gt;编者注：原文介绍得不详细且不准确，点击&lt;a href=&quot;http://www.googleguide.com/advanced_operators_reference.html&quot;&gt;链接&lt;/a&gt;可以学习更多 Google 的搜索方法。&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>如何提高外语交流能力</title>
       <link>http://share.yuz.me/articles/2014-04-07/</link>
       <pubDate>Mon, 07 Apr 2014 02:00:00 +0200</pubDate>
       <guid isPermaLink="true">http://share.yuz.me/articles/2014-04-07/</guid>
       <author></author>
-      <description>&lt;ol&gt;
+      <description>&lt;p&gt;以下是编者从一些文章里面节选的方法：&lt;/p&gt;
+&lt;ol&gt;
 &lt;li&gt;如果有条件，多看电视，多听广播。&lt;/li&gt;
 &lt;li&gt;尽量多一个人出门办事，尽可能选择没有国人伴随的情况以强迫自己必须练习听说。&lt;/li&gt;
 &lt;li&gt;只要你愿意和有胆去跟别人交朋友，一年半载下来你的意大利语一定会比现在有很大的进步。&lt;/li&gt;
 &lt;li&gt;一个有效的学习循环是：讲不出 -&amp;gt; 听别人讲 -&amp;gt; 自己重复类似语句 -&amp;gt; 完成话题的掌握 -&amp;gt; 尝试新的话题。&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&quot;-&quot;&gt;我的意大利语观&lt;/h3&gt;
+&lt;h3 id=&quot;-&quot;&gt;我的意大利语观(节选)&lt;/h3&gt;
 &lt;p&gt;在此我只想浅谈一些个人的感慨，希望给正在学习意大利语的朋友们带来一些新的启发、新的突破： &lt;/p&gt;
 &lt;p&gt;第一，学意大利语要有信心 &lt;/p&gt;
 &lt;ul&gt;
@@ -40,7 +261,7 @@
 &lt;li&gt;&lt;p&gt;意大利语发音最重要的不是音节、也不是单双辅音：是&lt;strong&gt;重音&lt;/strong&gt;！你甚至可以完全不清楚一个词是怎么写的、但只要你能掌握它的重音和知道它大概（即便是模模糊糊）的发音，意大利人就能听懂你说的话。所以想让意大利人听得懂，每次背诵单词、学动词都要养成&lt;strong&gt;把重音给标出来&lt;/strong&gt;的好习惯，并靠重音去听词、学词、背词。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;-&quot;&gt;总结&lt;/h3&gt;
+&lt;h3 id=&quot;-&quot;&gt;编者总结&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;学好意大利语并不难，常用单词只有400多个，单词的读写很一致，而且说话严格按照语法来，所以语法很重要。&lt;/p&gt;
 &lt;/li&gt;
@@ -63,7 +284,8 @@
       <pubDate>Sun, 06 Apr 2014 02:00:00 +0200</pubDate>
       <guid isPermaLink="true">http://share.yuz.me/articles/2014-04-06/</guid>
       <author></author>
-      <description>&lt;p&gt;鸠摩智上少林寺挑衅，使遍七十二绝技，方丈群僧无不骇然。这时，小和尚虚竹跑过来，只瞅了一眼，就说：“这位大师用的明明是小无相功嘛。”鸠摩智慌了。一般人看到的是招数，厉害的人看到的是内功。&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+      <description>&lt;p&gt;作者：王路 (&lt;a href=&quot;http://www.douban.com/note/260671415/&quot;&gt;原文链接&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;鸠摩智上少林寺挑衅，使遍七十二绝技，方丈群僧无不骇然。这时，小和尚虚竹跑过来，只瞅了一眼，就说：“这位大师用的明明是小无相功嘛。”鸠摩智慌了。一般人看到的是招数，厉害的人看到的是内功。&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;有个本科读经济的学生考去地理学院读研究生，一开始根本没有老师愿意带，因为这家伙一点地理学基础都没有，一年之后，这家伙发的paper超过了所有本科地理出身的学生。然后就有地理学出身的学生向他取经，打开他的论文一看，根本学不来，因为他论文里那些经济学模型在地理系学生看来“数学程度太高深了”。那家伙暗自笑话他们：这些都是很基础的模型，我会告诉你们我是因为数学太差才从经济系转到地理系来的吗？&lt;/p&gt;
 &lt;p&gt;有个笑话。当年凯恩斯约拉姆齐喝下午茶，想跟他探讨一下经济学问题，凯恩斯说：“你是我见过的最有天赋的经济学家。”拉姆齐说：“得了吧，经济学哪有什么问题好聊，我下午要去维特根斯坦那儿跟他聊聊逻辑哲学呢。”&lt;/p&gt;
 &lt;p&gt;陆游说：“汝欲学作诗，功夫在诗外。”你在一个行当里面学到的都是招数，是行业规矩，它保证你有资格进入这个领域。但是，在这个领域你能达到多深的造诣，这是内功，内功的训练，可能往往要超出这个领域之外。所以，少林寺诸高僧抱着七十二绝技的招数啃，一人啃一门绝技，啃到头最多一人身兼十三门绝技，根本无法和番僧鸠摩智相抗衡。要身兼七十二门绝技，那就要用到内功心法，内功心法在哪呢？不在武学书里，在佛经里。&lt;/p&gt;
@@ -76,7 +298,6 @@
 &lt;p&gt;听一个人说话，并不一定能了解他的真实想法，他的真实观点可能不是他想要表达出来的（他不是三体人）。但你如果留意他说话的方式，细心的话，就能抓住他隐藏在话语背后的态度，因为他的表达方式是和思维方式相关的，而思维方式一定会影响到他的真实观点，想隐藏真实观点很容易，但想隐藏思维方式却很难。就像一个习武之人，隐藏招数很容易，但隐藏内功就太难了。&lt;/p&gt;
 &lt;p&gt;孔子说：视其所由，观其所以，察其所安，人焉廋哉？&lt;/p&gt;
 &lt;p&gt;所由、所以、所安，这些都是内功。你把招数丢掉，去看内功，这人就没有什么可以隐藏的了。但有一个前提，你的内功要比他高。&lt;/p&gt;
-&lt;p&gt;作者：王路 (&lt;a href=&quot;http://www.douban.com/note/260671415/&quot;&gt;原文链接&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
   </channel>

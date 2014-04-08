@@ -464,10 +464,22 @@ table tr:hover td {
     background-color: #ffffff;
     border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 4px;
-    padding: 1em 1em 0em 1.4em;
+    padding: 1em 1em 1em 1.4em;
     background-color:#FBFBFC;
 }
 
 .index .content .content-title {
 	font-size: 1.2em;
+}
+
+.index .content-article .content p,
+.index .content-article .content ol,
+.index .content-article .content ul,
+.index .content-article .content blockquote {
+  margin-bottom: 0.8em;
+}
+
+.index .content-article .content h3 {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
 }
