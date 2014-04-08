@@ -454,3 +454,20 @@ table tr:hover td {
     display: none;
   }
 }
+
+.index .content-article .content {
+    font-size: 0.85em;
+}
+
+.index .content-article {
+    box-shadow: rgba(0, 0, 0, 0.05) 2px 2px 2px;
+    background-color: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    padding: 1em 1em 0em 1.4em;
+    background-color:#FBFBFC;
+}
+
+.index .content .content-title {
+	font-size: 1.2em;
+}
