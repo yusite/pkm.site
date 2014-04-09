@@ -313,7 +313,7 @@ table tr:hover td {
 
 .header,
 .footer {
-  padding-top: 2em;
+  padding-top: 1.6em;
   padding-bottom: 2.2em;
   text-align: center;
 }
@@ -507,4 +507,16 @@ img {
   -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
   -moz-box-shadow: rgba(0,0,0,0.3) 0 1px 3px;
   box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+}
+
+/* for Smartphones (portrait) ----------- */
+@media only screen 
+and (max-width : 640px) {
+  .index .content-article {
+    border: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    background-color: #fafafa;
+  }
 }
