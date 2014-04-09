@@ -254,7 +254,11 @@ table tr:hover td {
 }
 
 .box {
-	background-color: #fefefe;
+  background-color: #fefefe;
+}
+
+.index .box {
+  background-image: url(./bg.png);
 }
 
 .container {
@@ -365,8 +369,9 @@ table tr:hover td {
 }
 
 .footer .container {
-	margin-top: 1em;
-	font-size: small;
+  margin-top: 1em;
+  font-size: small;
+  color: lightslategray;
 }
 
 .cf:before,
@@ -460,12 +465,11 @@ table tr:hover td {
 }
 
 .index .content-article {
-    box-shadow: rgba(0, 0, 0, 0.05) 2px 2px 2px;
-    background-color: #ffffff;
-    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 1px;
+    border: 1px solid rgba(128, 128, 128, 0.1);
     border-radius: 4px;
     padding: 1em 1em 1em 1.4em;
-    background-color:#FBFBFC;
+    background-color:#fefefe;
 }
 
 .index .content .content-title {
