@@ -510,7 +510,7 @@ img {
 }
 
 /* for Smartphones (portrait) ----------- */
-@media only screen 
+@media only screen
 and (max-width : 640px) {
   .index .content-article {
     border: none;
@@ -518,5 +518,6 @@ and (max-width : 640px) {
     -moz-box-shadow: none;
     box-shadow: none;
     background-color: #fafafa;
+    padding: 0;
   }
 }
