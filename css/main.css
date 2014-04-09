@@ -320,7 +320,9 @@ table tr:hover td {
 }
 
 .article .header {
-  text-align: left;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 2em;
 }
 
 .content-header {
