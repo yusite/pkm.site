@@ -274,7 +274,7 @@ table tr:hover td {
   margin: 0 auto;
   color: #000;
   text-align: center;
-  line-height: 2;
+  line-height: 1.9;
   border: 1px solid #bbb;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -467,7 +467,7 @@ table tr:hover td {
 }
 
 .index .content-article {
-    box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 1px;
+    box-shadow: rgba(0, 0, 0, 0.3) 1px 1px 1px;
     border: 1px solid rgba(128, 128, 128, 0.1);
     border-radius: 4px;
     padding: 1em 1em 1em 1.4em;
