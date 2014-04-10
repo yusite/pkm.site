@@ -19,7 +19,7 @@ html {
   font-family: "Source Sans Pro", Helvetica, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, Arial, sans-serif;
   line-height: 1.4;
   border-top: 4px solid #f20;
-  background-color: #fafafa;
+  background-color: #fefefe;
 }
 
 p,
@@ -257,7 +257,7 @@ table tr:hover td {
 }
 
 .box {
-  background-color: #fafafa;
+  background-color: #fefefe;
 }
 
 .container {
@@ -466,21 +466,6 @@ table tr:hover td {
   line-height: 1.6em;
 }
 
-.index .content-article {
-  width: 100%;
-  display: block;
-  border: 1px solid;
-  border-color: #e5e5e5 #dbdbdb #d2d2d2;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
-  -moz-box-shadow: rgba(0,0,0,0.3) 0 1px 3px;
-  box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
-  padding: 1em 1em 1em 1.4em;
-  background-color:#fefefe;
-}
-
 .index .content .content-title {
   font-size: 1.2em;
 }
@@ -508,17 +493,4 @@ img {
   -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
   -moz-box-shadow: rgba(0,0,0,0.3) 0 1px 3px;
   box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
-}
-
-/* for Smartphones (portrait) ----------- */
-@media only screen
-and (max-width : 640px) {
-  .index .content-article {
-    border: none;
-    -webkit-box-shadow: none;
-    -moz-box-shadow: none;
-    box-shadow: none;
-    background-color: #fafafa;
-    padding: 0;
-  }
 }
